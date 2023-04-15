@@ -1,2 +1,2 @@
 # serialdrive
- Text datalogger throught the serial port
+ A csv datalogger throught the serial port. All the datas are stored on a SD card.
